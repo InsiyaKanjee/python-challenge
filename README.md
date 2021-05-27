@@ -1,8 +1,8 @@
 # python-challenge
 
 This repository has two folders:
-1-PyBank
-2-PyPoll
+**  1-PyBank
+    2-PyPoll**
 
 PyBank:
 The PyBank folder has three additional items:
